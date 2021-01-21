@@ -1,0 +1,2 @@
+# PersonlProfileGenerator
+This profile generator is built what I am building from scratch. It is using Vue on the frontend, Java + Tomcat 9 on the backend, and deploying database on the cloud. This web app works on the local as well as cloud if configured correctly. I just try to get much experience as a full stack engineer at the beginning to develop this web app, if you have questions, feel free to connect to me. Thanks!
